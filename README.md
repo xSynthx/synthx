@@ -1,2 +1,2 @@
-# synthx
+# Synthx
 My portfolio website
