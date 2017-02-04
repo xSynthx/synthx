@@ -1,3 +1,2 @@
 # Synthx
-My portfolio website
-My site is coming soon!
+This is my portfilio website.
