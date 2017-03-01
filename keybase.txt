@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/synthx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://synthx.pw
+  * I am synthx (https://keybase.io/synthx) on keybase.
+  * I have a public key ASAnrc_5IUTSQSNHD1mkO2pove3dUwqOHvB59HIXjc99Vgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012027adcff92144d24123470f59a43b6a68bdeddd530a8e1ef079f472178dcf7d560a",
+            "host": "keybase.io",
+            "kid": "012027adcff92144d24123470f59a43b6a68bdeddd530a8e1ef079f472178dcf7d560a",
+            "uid": "d68e75508ef439318ba166f9e459f019",
+            "username": "synthx"
+        },
+        "service": {
+            "hostname": "synthx.pw",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488390274,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488390265,
+        "hash": "24275302f260a2441a07bd59e53e3b47e82506058ab4ded098333d6d66dca5014d91739b4bb851c4694a9242b47109eacb404a3067cdecaa10dfe4ab01ecb04e",
+        "seqno": 932507
+    },
+    "prev": "c40988af6c3d41470e7253b6b3bd12a5f444f96654285dad0384cbba34a466cc",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ63P+SFE0kEjRw9ZpDtqaL3t3VMKjh7wefRyF43PfVYKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjdhZGNmZjkyMTQ0ZDI0MTIzNDcwZjU5YTQzYjZhNjhiZGVkZGQ1MzBhOGUxZWYwNzlmNDcyMTc4ZGNmN2Q1NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjdhZGNmZjkyMTQ0ZDI0MTIzNDcwZjU5YTQzYjZhNjhiZGVkZGQ1MzBhOGUxZWYwNzlmNDcyMTc4ZGNmN2Q1NjBhIiwidWlkIjoiZDY4ZTc1NTA4ZWY0MzkzMThiYTE2NmY5ZTQ1OWYwMTkiLCJ1c2VybmFtZSI6InN5bnRoeCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3ludGh4LnB3IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODM5MDI3NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4MzkwMjY1LCJoYXNoIjoiMjQyNzUzMDJmMjYwYTI0NDFhMDdiZDU5ZTUzZTNiNDdlODI1MDYwNThhYjRkZWQwOTgzMzNkNmQ2NmRjYTUwMTRkOTE3MzliNGJiODUxYzQ2OTRhOTI0MmI0NzEwOWVhY2I0MDRhMzA2N2NkZWNhYTEwZGZlNGFiMDFlY2IwNGUiLCJzZXFubyI6OTMyNTA3fSwicHJldiI6ImM0MDk4OGFmNmMzZDQxNDcwZTcyNTNiNmIzYmQxMmE1ZjQ0NGY5NjY1NDI4NWRhZDAzODRjYmJhMzRhNDY2Y2MiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB6MPLyqLWHsUxTgAs42SXXHRWASGDWMP7eULg9yc3ZsVoRL5L/3026dAP5YWQd0Rsxq0hwKtHOVI8NP/Z+TkAEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg0/6UZDLM25otVFTqP3/+gKBcwWYMmp1SLuVrf9Pxn+ejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/synthx
+
+==================================================================
